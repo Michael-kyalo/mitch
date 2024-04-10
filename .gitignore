@@ -1,0 +1,5 @@
+# Ignore /tmp folder
+/tmp/
+
+# Ignore .env file
+.env
